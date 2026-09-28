@@ -1,0 +1,8 @@
+{
+  "_說明": "以期別代碼為鍵，可覆寫 title/artist/category/period/intro/color/cover，例如下方範例（移除開頭底線即生效）",
+  "_11501": {
+    "artist": "羅桂蘭",
+    "period": "5/18 – 6/5",
+    "intro": "展覽簡介文字"
+  }
+}
